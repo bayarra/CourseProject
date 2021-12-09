@@ -59,7 +59,11 @@ test.py
     ```
 
 ## Does it included the spaCy official yet?
-No, not yet. Working on it.
+No, not yet. Working on it. Contributing the spaCy community needs a lot efforts, and it going in progress. 
 
 ## How to use it?
-Because of this package has not officially included in spaCy yet, you will needed to clone whole package and build locally. 
+Because of this package has not officially included in spaCy yet, you will needed to clone the whole package and build locally. 
+
+### Where can I find the whole package?
+You can clone below link and build it locally, and then you can use in your applications. 
+    https://github.com/bayarra/spaCy.git
