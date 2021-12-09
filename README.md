@@ -3,9 +3,9 @@
 ## Goal
 Add Mongolian language model compatible with Spacy NLP toolkit as alpha support. 
 ## Reason
-The spaCy framework does not support Mongolian language yet. 
+spaCy is a free, open-source library for advanced Natural Language Processing framework in Python, which helps the developers to build real-world production-ready applications. The spaCy framework does not support Mongolian language yet, not even as alpha support. 
 ## What is alpha support languages?
-Languages marked as "alpha support" usually only include tokenization rules and various other rules and language data.
+In spaCy, languages marked as "alpha support" usually only include tokenization rules and various other rules and language data.
 
 ## What is included
 Added Mongolian language into spaCy framework as 
@@ -60,11 +60,11 @@ Test cases for tokenization for text in Mongolian language.
     ```
 
 ## Does it included the spaCy official yet?
-No, not yet. Working on it. Contributing the spaCy community needs a lot efforts, and it going in progress. 
+No, not yet. Working on it. Contributing the spaCy community needs a lot efforts, and it is going in progress. 
 
 ## How to use it?
 Because of this package has not officially included in spaCy yet, you will needed to clone the whole package and build locally. 
 
 ### Where can I find the whole package?
 You can clone below link and build it locally, and then you can use in your applications. 
-    - https://github.com/bayarra/spaCy.git
+    https://github.com/bayarra/spaCy.git
