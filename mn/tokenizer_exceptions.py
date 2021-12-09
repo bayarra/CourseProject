@@ -24,8 +24,8 @@ for exc_data in [  # "etc." abbreviations
     {ORTH: "ө.х", NORM: "өөрөөр хэлбэл"},
     {ORTH: "г.м", NORM: "гэх мэт"},
     {ORTH: "ж.нь", NORM: "жишээ нь"},
-    {ORTH: "уих", NORM: "улсын их хурал"},
-    {ORTH: "уб", NORM: "улаанбаатар"},
+    {ORTH: "УИХ", NORM: "Улсын Их Хурал"},
+    {ORTH: "УБ", NORM: "Улаанбаатар"},
 ]:
     _exc[exc_data[ORTH]] = [exc_data]
 
