@@ -130,11 +130,11 @@ You can clone the below link and build it locally, and then you can use it in yo
     - Run the command `python setup.py build_ext --inplace`
 
 ## References:
-Official site: https://spacy.io/
-spaCy 101: https://spacy.io/usage/spacy-101
-Trained Models & Pipelines: https://spacy.io/models
-Models & Languages: https://spacy.io/usage/models
-spaCy source on the github: https://github.com/explosion/spaCy
-Adding models for new languages: https://github.com/explosion/spaCy/discussions/3056
-Contributing: https://github.com/explosion/spaCy/blob/master/CONTRIBUTING.md
-spaCy tests: https://github.com/explosion/spaCy/blob/master/spacy/tests/README.md
+Official site: https://spacy.io/  
+spaCy 101: https://spacy.io/usage/spacy-101  
+Trained Models & Pipelines: https://spacy.io/models  
+Models & Languages: https://spacy.io/usage/models  
+spaCy source on the github: https://github.com/explosion/spaCy  
+Adding models for new languages: https://github.com/explosion/spaCy/discussions/3056  
+Contributing: https://github.com/explosion/spaCy/blob/master/CONTRIBUTING.md  
+spaCy tests: https://github.com/explosion/spaCy/blob/master/spacy/tests/README.md  
