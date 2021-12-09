@@ -8,34 +8,34 @@ The spaCy framework does not support Mongolian language yet.
 Languages marked as "alpha support" usually only include tokenization rules and various other rules and language data.
 
 ## What is included
-  - Added Mongolian language into spaCy framework as 
+- Added Mongolian language into spaCy framework as 
     - code: mn
     - name: Mongolian
 
 ## Stop words
-    stop_words.py	
-    List of most common words of a Mongolian language that are often useful to filter out, for example “ба” or “нь”. Matching tokens will return True for is_stop.
+stop_words.py	
+List of most common words of a Mongolian language that are often useful to filter out, for example “ба” or “нь”. Matching tokens will return True for is_stop.
 ## Tokenizer exceptions
-    tokenizer_exceptions.py	
-    Some Mongolian language's special-case rules for the tokenizer, for example, abbreviations with punctuation, like “г.м”, abbreviations with upper cases, like "УИХ".
+tokenizer_exceptions.py	
+Some Mongolian language's special-case rules for the tokenizer, for example, abbreviations with punctuation, like “г.м”, abbreviations with upper cases, like "УИХ".
 ## Punctuation rules
-    punctuation.py	
-    Regular expressions for splitting tokens. Includes rules for infixes.
+punctuation.py	
+Regular expressions for splitting tokens. Includes rules for infixes.
 ## Lexical attributes
-    lex_attrs.py	
-    Custom functions for setting lexical attributes on tokens, e.g. like_num, which includes numeric words in Mongolian language, like “мянга” or “зуу”.
+lex_attrs.py	
+Custom functions for setting lexical attributes on tokens, e.g. like_num, which includes numeric words in Mongolian language, like “мянга” or “зуу”.
 ## Examples
-    examples.py 
-    Some sample words, sentences in Mongolian language for testing inside the spaCy.
+examples.py 
+Some sample words, sentences in Mongolian language for testing inside the spaCy.
 ## Initialation and linking class
-    __init.py
+__init.py
 
 ## Test cases
-    test_tokenizer.py
-    Test cases for tokenization for text in Mongolian language.
+test_tokenizer.py
+Test cases for tokenization for text in Mongolian language.
 
 ## Usage sample
-    test.py
+test.py
 
 ## Usage
     ```
