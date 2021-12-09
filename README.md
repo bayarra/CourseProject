@@ -13,30 +13,30 @@ Added Mongolian language into spaCy framework as
     - name: Mongolian
 
 ### Stop words
-- stop_words.py
+- stop_words.py  
 List of most common words of a Mongolian language that are often useful to filter out, for example “ба” or “нь”. Matching tokens will return True for is_stop.
 ### Tokenizer exceptions
-- tokenizer_exceptions.py
+- tokenizer_exceptions.py  
 Some Mongolian language's special-case rules for the tokenizer, for example, abbreviations with punctuation, like “г.м”, abbreviations with upper cases, like "УИХ".
 ### Punctuation rules
-- punctuation.py
+- punctuation.py  
 Regular expressions for splitting tokens. Includes rules for infixes.
 ### Lexical attributes
-- lex_attrs.py
+- lex_attrs.py  
 Custom functions for setting lexical attributes on tokens, e.g. like_num, which includes numeric words in Mongolian language, like “мянга” or “зуу”.
 ### Examples
-- examples.py
+- examples.py  
 Some sample words, sentences in Mongolian language for testing inside the spaCy.
 ### Initialation and linking class
-- __init.py
+- __init.py  
 Create classes for Mongolian with linking above language informations. 
 
 ### Test cases
-- test_tokenizer.py
+- test_tokenizer.py  
 Test cases for tokenization for text in Mongolian language.
 
 ### Usage sample
-- test.py
+- test.py  
 
 ## Usage
     ```
