@@ -7,7 +7,10 @@ spaCy is a free, open-source library for advanced Natural Language Processing fr
 ## What is alpha support languages?
 In spaCy, languages marked as "alpha support" usually only include tokenization rules and various other rules and language data.
 
-## What is included
+## Mongolian language
+Mongolian language has 2 alphabets, Mongolian Cyrillic, and Traditional Mongolian scripts. Mongolian Cyrillic is official alphabet in Mongolia right now. This project is includes the Mongolian Cyrillic transcript. 
+
+## What is included in this package?
 Added Mongolian language into spaCy framework as 
     - code: mn
     - name: Mongolian
