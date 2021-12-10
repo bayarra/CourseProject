@@ -17,7 +17,7 @@ Added Mongolian language into spaCy framework as
 
 ### Stop words
 - stop_words.py  
-List of most common words of a Mongolian language that are often useful to filter out, for example, "ба" or "нь." Matching tokens will return True for is_stop.
+List of most common words of the Mongolian language that are often useful to filter out, for example, "ба" or "нь." Matching tokens will return True for is_stop.
 ### Tokenizer exceptions
 - tokenizer_exceptions.py  
 Some Mongolian language's special-case rules for the tokenizer, for example, abbreviations with punctuation, like "г.м," abbreviations with upper cases, like "УИХ."
@@ -114,8 +114,8 @@ No, not yet. Contributing to the spaCy community needs a lot of effort, and it i
 Because this package has not been officially included in spaCy yet, you need to clone the whole package and build it locally to use in your applications. 
 
 ### Where can I find the whole package?
-You can clone the below link and build it locally, and then you can use it in your applications. 
-    https://github.com/bayarra/spaCy.git
+You can download the source from below link and build it locally, and then you can use it in your applications. 
+    https://github.com/bayarra/spaCy
 
 ## Building the spaCy
 - Required tools and packages:
