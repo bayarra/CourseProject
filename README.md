@@ -129,6 +129,9 @@ You can download the source from below link and build it locally, and then you c
 - Build the spaCy  
     - Run the command `python setup.py build_ext --inplace`
 
+## Project presentation:
+https://github.com/bayarra/spacy.lang.mn/blob/main/Project%20Presentation.pptx
+
 ## References:
 Official site: https://spacy.io/  
 spaCy 101: https://spacy.io/usage/spacy-101  
